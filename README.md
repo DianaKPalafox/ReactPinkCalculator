@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Your set React Pink Calculaor should be ready to use in local machine 
+
+
+<img width="1439" alt="Screen Shot 2022-11-09 at 1 56 08 PM" src="https://user-images.githubusercontent.com/22809173/204960467-fa81c29b-fff3-447c-a8ad-3eaf3fd982ec.png">
